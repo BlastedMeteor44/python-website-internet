@@ -1,1 +1,1 @@
-pwi://example.ex = 
+pwi://example.ex = https://raw.githubusercontent.com/ruhaan-bit/python-website-internet/main/example.html
